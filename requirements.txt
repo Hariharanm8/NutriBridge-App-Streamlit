@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+pulp
+matplotlib
+astunparse
+google-cloud-storage
