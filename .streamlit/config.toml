@@ -1,0 +1,3 @@
+[datasets]
+recipes = "streamlit-artifacts://NutriBridge-App-Streamlit/RAW_recipes_small.csv"
+
